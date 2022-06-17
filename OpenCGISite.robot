@@ -7,7 +7,7 @@ First TC
        Log    Hello
          
     
-     Open Browser    http://cgi.com  chrome
+     Open Browser    http://google.com  chrome
        Sleep    5s 
 
      Close Browser
